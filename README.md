@@ -1,7 +1,6 @@
 ![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">A passionate developer from Poland, trying to teach himself being a fullstack!</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omichalo121" alt="omichalo121" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 I’m currently working on [Poldle](https://poldle.pl/)
@@ -27,7 +26,9 @@
 <p><a href="https://ko-fi.com/Poldle"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Poldle" /></a></p><br><br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omichalo121&show_icons=true&locale=en&layout=compact" alt="omichalo121" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omichalo121&show_icons=true&locale=en&layout=compact" alt="omichalo121" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omichalo121&show_icons=true&locale=en" alt="omichalo121" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omichalo121&" alt="omichalo121" /></p>
 
