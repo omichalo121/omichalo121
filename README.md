@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Poland, trying to teach himself being a fullstack!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on [Poldle](https://poldle.pl/)
+- 🔭 I’m currently working on [Poldle](http://poldle.pl/)
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, fastAPI and mySQL.**
 
