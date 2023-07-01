@@ -1,6 +1,6 @@
 ![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">A passionate developer from Poland, trying to teach himself being a fullstack!</h3>
+<h3 align="center">A passionate developer and ex chemical engineer from Poland, trying to teach himself being a fullstack!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 I’m currently working on [Poldle](http://poldle.pl/)
