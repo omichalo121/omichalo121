@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I have no idea what's happened with my programming languages stats. And also I like socks with animals.**
 
-- ➡️ You can find me on [LinkedIn](www.linkedin.com/in/michał-basisty-743756281)
+- ➡️ You can find me on [LinkedIn](https://www.linkedin.com/in/micha%C5%82-basisty-743756281/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
