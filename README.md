@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer and ex chemical engineer from Poland, trying to teach himself being a fullstack!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on [Poldle](http://poldle.pl/) and a restaurant reservation java app!
+- 🔭 I’m currently working on [Poldle](https://poldle.pl/) and a restaurant reservation java app!
 
 - 🌱 I’m currently learning **Java, Python, JavaScript, CSS, HTML, fastAPI and mySQL.**
 
